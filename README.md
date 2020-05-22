@@ -1,5 +1,5 @@
 # Flash Chat
-## A group chatting app made with Firebase and Flutter.
+A group chatting app made with Firebase and Flutter.
 
 ## Demo Video
 
